@@ -1,0 +1,1 @@
+.image-align-left{float:left;margin:20px 20px 20px 0}.image-align-right{float:right;margin:20px 0 20px 20px}

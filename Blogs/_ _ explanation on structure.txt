@@ -1,0 +1,4 @@
+Web Copy utility does not cope with the dynamic blog index page on the actual site that has a Load More button, so the entry in the Blogs folder only points to the last few actual blog entries in the Blog folder.
+The _ Blog xxx Chronological lists in html and txt contain the full list of entries and helpfully contain the date and Day number at the start of each entry.
+
+Unfortunately the html version links to the real website for each post not to the clone. The entries will all need fixing up somehow so they actually point to the files in the Blog folder. Or just create a new simple index with an HTML editor.   

@@ -1,0 +1,1144 @@
+Uri: https://fonts.googleapis.com/css?family=Lato:300,400,700
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://js.braintreegateway.com/js/braintree-2.32.1.min.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\js\braintree-2.32.1.min.js
+Content Type: application/javascript
+
+Uri: https://js.stripe.com/v2/
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\v2\index.htm
+Content Type: application/javascript
+
+Uri: https://js.stripe.com/v3/
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\v3\index.htm
+Content Type: application/javascript
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fappeal%25252Fa-line-of-sight%2526t%253DA%252BLine%252Bof%252BSight%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-5.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fa-buxom-lass-clears-her-throat%2526t%253DA%252BBuxom%252BLass%252BClears%252BHer%252BThroat%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-8.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fa-day-of-firsts%2526t%253DA%252BDay%252Bof%252BFirsts%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-35.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fa-small-institutional-paradox%2526t%253DA%252BSmall%252BInstitutional%252BParadox%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-9.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fand-your-name-is%2526t%253DAnd%252BYour%252BName%252BIs...%25253F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-18.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fartisanal-allure%2526t%253DArtisanal%252BAllure%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-20.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fcanada%2526t%253DCanada%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-24.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Feddington-numbers-and-extraordinary-cycling-records%2526t%253DEddington%252BNumbers%252Band%252BExtraordinary%252BCycling%252BRecords%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-16.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fepiblog%2526t%253DEpiblog%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-6.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fmechanicals-come-in-3s%2526t%253DMechanicals%252Bcome%252Bin%252B3s%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-19.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fniagara-to-namibia%2526t%253DNiagara%252Bto%252BNamibia%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-21.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fon-the-kindness-of-hills%2526t%253DOn%252Bthe%252BKindness%252Bof%252BHills%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-33.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fpain-management%2526t%253DPain%252BManagement%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-34.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Frecipe-for-a-fast-ride%2526t%253DRecipe%252Bfor%252Ba%252BFast%252BRide%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-22.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fspeed-dating-for-tandem-partners%2526t%253DSpeed%252BDating%252Bfor%252BTandem%252BPartners%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-32.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fthe-abomination-of-budget-chain-cuisine%2526t%253DThe%252BAbomination%252Bof%252BBudget%252BChain%252BCuisine%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-31.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fthe-accessibility-dance-with-technology%2526t%253DThe%252BAccessibility%252BDance%252Bwith%252BTechnology%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-17.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fthe-poverty-of-language%2526t%253DThe%252BPoverty%252Bof%252BLanguage%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-23.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fwhat-lies-ahead%2526t%253DWhat%252BLies%252BAhead%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-29.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fwhat-makes-a-transamerica-ride-harder-if-youre-blind%2526t%253DWhat%252BMakes%252BA%252BTransamerica%252BRide%252BHarder%252BIf%252BYou%2525E2%252580%252599re%252BBlind%25253F%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-30.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fblog%25252Fwheel-dipped-and-job-done%2526t%253DWheel%252BDipped%252Band%252BJob%252BDone%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-7.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fco-riders%2526t%253DCo%252BRiders%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-4.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffaqs%25252Falastair-heggie%2526t%253DAlastair%252BHeggie%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-13.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffaqs%25252Fchris-mairs%2526t%253DChris%252BMairs%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-12.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffaqs%25252Fjames-owers%2526t%253DJames%252BOwers%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-14.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffaqs%25252Fteam-bike-genevieve%2526t%253DTeam%252BBike%252B%2525E2%252580%252593%252BGenevieve%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-15.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffundraisers%25252Faarons-fundraising-page%2526t%253DAaron%252527s%252Bfundraising%252Bpage%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-26.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffundraisers%25252Frun-robert-run%2526t%253DRun%252BRobert%252BRun%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-28.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffundraisers%25252Fsally-running-for-freedom%2526t%253DSally%252Brunning%252Bfor%252Bfreedom%252521%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-25.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Ffundraisers%25252Fswimming-the-channel-for-charity%2526t%253DSwimming%252Bthe%252BChannel%252Bfor%252BCharity%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-27.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Flinks%2526t%253DLinks%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-3.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fmy-606060-pledge%2526t%253DMy%252B60%2525C3%25259760%25254060%252BPledge%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-1.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fprivacy-policy%2526t%253DPrivacy%252BPolicy%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-11.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Froutetracker%2526t%253DRoute%252B%252526%252BTracker%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fterms-and-conditions%2526t%253DTerms%252Band%252BConditions%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-10.htm
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/cookie/consent_prompt/?next_uri=https:%2F%2Fm.facebook.com%2Flogin.php%3Fskip_api_login%3D1%26api_key%3D966242223397117%26signed_next%3D1%26next%3Dhttps%253A%252F%252Fm.facebook.com%252Fsharer.php%253Fu%253Dhttps%25253A%25252F%25252Fwww.alineofsight.org.uk%25252Fuse-of-funds%2526t%253DUse%252Bof%252Bfunds%26cancel_url%3Dhttps%253A%252F%252Fm.facebook.com%252Fdialog%252Fclose_window%252F%253Fapp_id%253D966242223397117%2526connect%253D0%2523_%253D_%26display%3Dtouch%26locale%3Den_GB&refsrc=deprecated&locale2=en_GB&_rdr
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cookie\consent_prompt\index-2.htm
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.alineofsight.org.uk/
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Appeal/a-line-of-sight
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Appeal\a-line-of-sight.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/appeals/post?IDAppeal=a586f6d9-94fc-4b8b-8046-9c2e0c6019dd
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\appeals\post.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/App_ClientScript/iframe-resizer.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_ClientScript\iframe-resizer.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_0073ea_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_0073ea_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_454545_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_454545_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_666666_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_666666_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_dddddd_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_dddddd_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_ea9e00_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_ea9e00_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_ff0084_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_ff0084_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Core/jQueryUI/baseframework/images/ui-icons_ffffff_0.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Core\jQueryUI\baseframework\images\ui-icons_ffffff_0.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/App_Themes/Graphics/ajax-loader-white.gif
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\App_Themes\Graphics\ajax-loader-white.gif
+Content Type: image/gif
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/css/baseframework.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\css\baseframework.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/css/boilerplate.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\css\boilerplate.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/CSS/dropzone.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\CSS\dropzone.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/CSS/dropzoneFileUploader.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\CSS\dropzoneFileUploader.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/CSS/dropzoneFileUploaderComments.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\CSS\dropzoneFileUploaderComments.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/css/jquery-ui.css
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/css/normalize.css?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/fonts/genericons-regular-webfont.eot
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\fonts\genericons-regular-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/fonts/genericons-regular-webfont.eot?
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\fonts\genericons-regular-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/fonts/genericons-regular-webfont.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\fonts\genericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/fonts/genericons-regular-webfont.ttf
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\fonts\genericons-regular-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/fonts/genericons-regular-webfont.woff
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\fonts\genericons-regular-webfont.woff
+Content Type: application/x-woff
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/handlers/css.ashx?type=1&v=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\handlers\css.ashx
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/BaseUI/v2_4/Images/apple-pay.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\BaseUI\v2_4\Images\apple-pay.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/Images/check.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\Images\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/Images/chevron-down.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\Images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/Images/chevron-right.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\Images\chevron-right.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/Images/giftaid-logo60.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\Images\giftaid-logo60.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/BaseUI/v2_4/Images/google-pay.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\BaseUI\v2_4\Images\google-pay.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/BaseUI/v2_4/Images/preloader-w8-line-black.gif
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\BaseUI\v2_4\Images\preloader-w8-line-black.gif
+Content Type: image/gif
+
+Uri: https://www.alineofsight.org.uk/BaseUI/v2_4/Images/visa-mastercard-amex.svg
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\BaseUI\v2_4\Images\visa-mastercard-amex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/js/jquery/jquery-3.5.1.min.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\js\jquery\jquery-3.5.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/js/jquery/jqueryui-1.12.0.min.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\js\jquery\jqueryui-1.12.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/js/libraries/dropzone.js?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\js\libraries\dropzone.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/baseui/v2_4/js/libraries/exif.js?v=3-0-19242-0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\baseui\v2_4\js\libraries\exif.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/blog/a-buxom-lass-clears-her-throat
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\a-buxom-lass-clears-her-throat.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Blog/a-day-of-firsts
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Blog\a-day-of-firsts.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/a-small-institutional-paradox
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\a-small-institutional-paradox.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/and-your-name-is
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\and-your-name-is.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/artisanal-allure
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\artisanal-allure.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/canada
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\canada.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Blog/eddington-numbers-and-extraordinary-cycling-records
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Blog\eddington-numbers-and-extraordinary-cycling-records.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/epiblog
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\epiblog.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/mechanicals-come-in-3s
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\mechanicals-come-in-3s.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/niagara-to-namibia
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\niagara-to-namibia.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/on-the-kindness-of-hills
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\on-the-kindness-of-hills.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/pain-management
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\pain-management.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/recipe-for-a-fast-ride
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\recipe-for-a-fast-ride.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/speed-dating-for-tandem-partners
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\speed-dating-for-tandem-partners.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/the-abomination-of-budget-chain-cuisine
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\the-abomination-of-budget-chain-cuisine.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/the-accessibility-dance-with-technology
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\the-accessibility-dance-with-technology.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/the-poverty-of-language
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\the-poverty-of-language.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/what-lies-ahead
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\what-lies-ahead.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/what-makes-a-transamerica-ride-harder-if-youre-blind
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\what-makes-a-transamerica-ride-harder-if-youre-blind.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/blog/wheel-dipped-and-job-done
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\blog\wheel-dipped-and-job-done.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Blogs/line-of-sight
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Blogs\line-of-sight.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Blogs/line-of-sight?Take=12
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Blogs\line-of-sight-1.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-error.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-icon-server.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/l/email-protection
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.alineofsight.org.uk/cdn-cgi/styles/cf.errors.css
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/checkout
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\checkout.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/clients/alineofsight/assets/ALineOfSite_Logo.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\clients\alineofsight\assets\ALineOfSite_Logo.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/clients/alineofsight/assets/ALoveofThunder.woff
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\clients\alineofsight\assets\ALoveofThunder.woff
+Content Type: application/font-sfnt
+
+Uri: https://www.alineofsight.org.uk/clients/alineofsight/scripts/main.min.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\clients\alineofsight\scripts\main.min.js
+Content Type: application/javascript
+
+Uri: https://www.alineofsight.org.uk/clients/alineofsight/styles/main.min.css
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\clients\alineofsight\styles\main.min.css
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/co-riders
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\co-riders.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/contact
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\contact.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/donate/aarons-fundraising-page
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\donate\aarons-fundraising-page.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/donate/run-robert-run
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\donate\run-robert-run.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/donate/sally-running-for-freedom
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\donate\sally-running-for-freedom.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/donate/swimming-the-channel-for-charity
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\donate\swimming-the-channel-for-charity.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/FAQs/alastair-heggie
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\FAQs\alastair-heggie.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/FAQs/chris-mairs
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\FAQs\chris-mairs.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/FAQs/james-owers
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\FAQs\james-owers.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/FAQs/team-bike-genevieve
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\FAQs\team-bike-genevieve.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/frontend/api/styles/core/57
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\frontend\api\styles\core\57
+Content Type: text/css
+
+Uri: https://www.alineofsight.org.uk/fundraisers/aarons-fundraising-page
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\fundraisers\aarons-fundraising-page.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/fundraisers/run-robert-run
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\fundraisers\run-robert-run.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/fundraisers/sally-running-for-freedom
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\fundraisers\sally-running-for-freedom.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/fundraisers/swimming-the-channel-for-charity
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\fundraisers\swimming-the-channel-for-charity.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=0d5937f9-24bc-48af-b599-9c2404337ae8&w=480&h=627&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-2.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=0ef2e149-f168-4279-a038-92f900b7a53f&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-20.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=11106a74-58fc-453b-8614-5c4d7c390e4e&w=800&h=1066&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-17.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=1a6f6a6c-379e-4af6-8454-f9623902983f&w=300&h=450&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-4.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=2238f40a-240e-42fd-a981-5d2532ccaa76&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-50.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=248904b6-bf44-4a99-a8c7-147bbe762eef&w=768&h=576&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-8.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=2de34ba1-b17d-4a8f-b853-32065ee8f4ca&w=476&h=540&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-53.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=3123a910-7009-4c33-a9b2-53af70ee9fc8&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-15.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=3861309b-0355-4561-a016-6b0bff5665bf&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-32.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=3f9d5a5f-5981-46bb-a9b3-2afce126ff68&w=480&h=640&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-5.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=41da3a6f-a946-4ba8-a37b-2f1de72ae257&w=800&h=443&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-40.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=49b4459c-5993-400d-afa9-313a2febf9f3&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-35.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=4a470ebb-bb17-4cfc-a23b-017d064a285a&w=500&h=750&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-6.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=800&h=1115&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-51.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=529d5af0-335e-47de-a3ef-87e42185d133&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-21.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=54f5b405-ee73-4897-b4fe-535da60f6940&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-37.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=555ed585-aee5-4459-8f77-26f51eb83532&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=5dea7f0a-5649-4063-98ef-ae829fefc7aa&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-36.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=61b005b1-942c-494a-8fd8-14729c7018db&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-14.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=66a68f37-0b6a-49e5-bca5-ea381009c49f&w=500&h=521&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-7.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=6e241e5b-b58e-4080-8698-70c18867bfac&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-43.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=722d30dd-160f-47fc-9b70-0965d5214091&w=400&h=300&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-19.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=727e51aa-c46a-4007-9ed6-624009b2301e&w=400&h=300&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-18.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=7641a492-59dd-476d-b385-2b7b6b256221&w=576&h=576&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-22.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=7cef53d4-a71a-4103-8a43-764e4fa5462d&w=800&h=1066&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-48.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=8147e326-da51-44b3-b224-825bc6e2ecfc&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-16.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=8809e449-3981-47ec-ae99-0936bcd794f9&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-1.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=88cacf34-7a20-4693-bce0-437ad5455b07&w=800&h=1066&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-30.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=8fb4b2f5-f81e-4b37-9ae2-542601ad0947&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-13.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=9770ed38-7430-4c97-9a24-7e79864a9803&w=400&h=300&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-27.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=97f77fc3-5514-4b10-949a-8dcb6883894b&w=800&h=654&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-12.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=9987be7b-e29a-476b-9bf0-8209b5cbacee&w=480&h=640&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-52.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=9987be7b-e29a-476b-9bf0-8209b5cbacee&w=800&h=1066&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-11.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=9a9b14eb-6b48-4a43-8be2-6366a16871c9&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-31.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=ace81cd0-e316-484f-a4ce-8aaa12550c94&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-33.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=b3f2ad7e-5dc0-4ce5-bcd3-52d710139e8d&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-28.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=b5d6e424-042f-43df-8127-9dd0eed93af5&w=480&h=640&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-47.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=b8ac3a21-0c23-4cd1-b254-d213ac252487&w=260&h=146&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-39.aspx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=b93d6281-f5db-4316-9e99-2589b07ec6da&w=500&h=375&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-9.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=b9a74dce-55b2-41cf-b144-6da159720f86&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-44.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=ba1d04e9-677c-4302-bc7e-88ea96f36334&w=480&h=640&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-46.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=bbf28e03-157e-476b-90ee-842b499518de&w=300&h=450&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-3.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=c29416c1-3d20-4391-b1dc-97f61d07d3e0&w=800&h=1066&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-25.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=d2f5d96b-a2f0-45cf-86f0-aa530f933049&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-29.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=d9c4764b-557d-4f54-911f-10f06a0afbe4&w=448&h=299&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-24.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=eea3b7fe-b260-48b1-8e8f-8c56f701a796&w=800&h=496&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-41.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=f26ebd5a-1f08-42b8-acf9-3ba80ba8e6a8&w=517&h=315&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-10.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=f290c82c-369b-41eb-b4f7-693dffbf5e1a&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-34.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=f3c8d2ac-c23a-4dd0-adfc-cf33ce532925&w=800&h=533&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-49.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=f68e540d-706d-41c4-919b-0604513def33&w=400&h=300&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-26.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=f9a183e4-51ee-4d54-becb-453f6fb04e8a&w=800&h=381&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-42.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=fbaae3ac-ad59-45af-8862-2ff4c02bf124&w=259&h=146&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-38.aspx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=fcee25ca-e3be-4ab2-9493-a09eb80e0ab4&w=541&h=537&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-23.aspx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/GetImage.aspx?IDMF=ff691976-5adf-4739-a618-c28322509f91&w=800&h=600&src=mc
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\GetImage-45.aspx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-8.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=06d8bb09-a590-4961-8557-5f5f147cf06d&v=637145039841100000&h=220&w=220&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-14.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=06d8bb09-a590-4961-8557-5f5f147cf06d&v=637145039841100000&h=60&w=60&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-2.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=077e6fbe-15a6-4cdd-807d-6d0a2eb45ba7&v=637145039841100000&h=220&w=220&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-12.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=077e6fbe-15a6-4cdd-807d-6d0a2eb45ba7&v=637145039841100000&h=60&w=60&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=08ab94b7-82e1-4fbb-9c4f-63b987f7122c&v=636342184481470000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-5.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=23c723bc-0ef1-49c1-9af3-c8b12dc0462d&v=637145039841100000&h=220&w=220&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-13.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=23c723bc-0ef1-49c1-9af3-c8b12dc0462d&v=637145039841100000&h=60&w=60&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-1.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=29cd018c-bd13-4a06-85d8-50183ef588b7&v=636375841986630000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-6.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=4029f1cd-784a-4dc5-b95d-c61e58c0b0fa&v=637145039841100000&h=220&w=220&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-15.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=4029f1cd-784a-4dc5-b95d-c61e58c0b0fa&v=637145039841100000&h=60&w=60&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-3.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=5d6e9ab4-ea61-43f6-b0ee-460ec4a77ab8&v=636334073272700000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-9.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=5f1c6dbc-de2f-4107-b8ba-303d08c848a5&v=636293198675130000&h=38&w=38&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-11.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=5f1c6dbc-de2f-4107-b8ba-303d08c848a5&v=636293198675130000&h=90&w=90&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-4.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=69ec4661-569a-4953-9a3b-6f033bd17ef9&v=636368023424400000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-16.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=855136f7-0af8-4916-8155-fc9d4fd248b0&v=636367479014870000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-17.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=91a465df-514e-4101-a58c-e42f6ff4789e&v=636347884351070000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-18.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=d5a05303-59db-4af9-bc83-9cc7f3376e8c&v=636337744898200000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-10.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/Handlers/DisplayProfilePic.ashx?IDMember=e22a1e6f-9ff8-4ee3-a363-0876cd88fdbf&v=636373946015000000&h=38&w=38&f=0
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Handlers\DisplayProfilePic-7.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-38.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-39.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-35.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-36.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-24.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=118be920-f5b2-4122-b01f-fefac6831b6d&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-37.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-7.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-8.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-9.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-5.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=22fdcf2c-ccee-423f-bf1e-8da94e53d1fa&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-6.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=3123a910-7009-4c33-a9b2-53af70ee9fc8&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-2.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=3123a910-7009-4c33-a9b2-53af70ee9fc8&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-15.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=41da3a6f-a946-4ba8-a37b-2f1de72ae257&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-23.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=4217eacc-f72c-4aa3-890b-ed846420d480&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-43.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=4217eacc-f72c-4aa3-890b-ed846420d480&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-44.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=4217eacc-f72c-4aa3-890b-ed846420d480&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-40.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=4217eacc-f72c-4aa3-890b-ed846420d480&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-41.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=4217eacc-f72c-4aa3-890b-ed846420d480&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-42.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-48.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-49.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-45.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-46.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=510664fe-832f-48cd-b0d7-93bd5f2a99ea&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-47.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=529d5af0-335e-47de-a3ef-87e42185d133&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-4.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=529d5af0-335e-47de-a3ef-87e42185d133&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-17.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=555ed585-aee5-4459-8f77-26f51eb83532&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-11.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=5dea7f0a-5649-4063-98ef-ae829fefc7aa&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-22.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=8147e326-da51-44b3-b224-825bc6e2ecfc&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-3.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=8147e326-da51-44b3-b224-825bc6e2ecfc&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-16.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=8809e449-3981-47ec-ae99-0936bcd794f9&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-12.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=88cacf34-7a20-4693-bce0-437ad5455b07&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-20.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=9770ed38-7430-4c97-9a24-7e79864a9803&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-18.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=97f77fc3-5514-4b10-949a-8dcb6883894b&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-1.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=97f77fc3-5514-4b10-949a-8dcb6883894b&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-14.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=9a478898-6aa3-4d6d-b16c-d096015f305b&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-10.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-33.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-34.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-30.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-31.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-19.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=c1dfe7a0-bbf9-461c-b55c-5c3e2fd75e11&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-32.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=1024&h=293&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-28.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=1200&h=343&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-29.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=1400&h=400&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-25.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=300&h=169&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-13.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=576&h=165&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-26.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=ce91ccca-5082-45f2-ada9-43a22bb3ffb5&w=768&h=219&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-27.ashx
+Content Type: image/jpeg
+
+Uri: https://www.alineofsight.org.uk/handlers/getimage.ashx?idmf=f16c80ae-22f5-48e5-a6c7-65d909bda88d&w=600&h=338&f=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\getimage-21.ashx
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/handlers/rss.ashx?feed=1
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\rss.ashx
+Content Type: text/xml
+
+Uri: https://www.alineofsight.org.uk/handlers/rss.ashx?feed=1&IDBlogGroup=1993fcc2-c574-4675-a008-ac5a46672c6a
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\rss-1.ashx
+Content Type: text/xml
+
+Uri: https://www.alineofsight.org.uk/handlers/rss.ashx?feed=1&IDModule=befc0b0a-2645-4a4c-84ab-439cb37828f4
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\rss-4.ashx
+Content Type: text/xml
+
+Uri: https://www.alineofsight.org.uk/handlers/rss.ashx?feed=1&IDModule=eac03192-8993-4a16-8db2-d3ab66db344e
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\rss-3.ashx
+Content Type: text/xml
+
+Uri: https://www.alineofsight.org.uk/handlers/rss.ashx?feed=1&IDModule=eac03192-8993-4a16-8db2-d3ab66db344e&IDBlogGroup=1993fcc2-c574-4675-a008-ac5a46672c6a
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\handlers\rss-2.ashx
+Content Type: text/xml
+
+Uri: https://www.alineofsight.org.uk/links
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\links.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/manager/images/panel_bg.png
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\manager\images\panel_bg.png
+Content Type: image/png
+
+Uri: https://www.alineofsight.org.uk/my-606060-pledge
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\my-606060-pledge.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/my-details
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\my-details.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/Pages/FAQs/Category/the-team
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\Pages\FAQs\Category\the-team.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/privacy-policy
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/routetracker
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\routetracker.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvlRM5uFC5_Srbr9kx7Oy9ALIJlnt7w8cUWX7FSX0E7pxGxFial1S6GG_Vt30H5Nb8ry6OQtKGF9MZtKdc0WqOOvTqMkqhi5eEoSN68UCUMFAVRWRnubNTdfOvOipC8NWnreKii41&t=363be08
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\ScriptResource.axd
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/scripts/platform/main.min-fcb9f2d61e1e86d3d64b6673347fe631.js
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\scripts\platform\main.min-fcb9f2d61e1e86d3d64b6673347fe631.js
+Content Type: application/x-javascript
+
+Uri: https://www.alineofsight.org.uk/terms-and-conditions
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\terms-and-conditions.html
+Content Type: text/html
+
+Uri: https://www.alineofsight.org.uk/use-of-funds
+File Name: C:\DownloadedWebSites\www.alineofsight.org.uk\use-of-funds.html
+Content Type: text/html
+
